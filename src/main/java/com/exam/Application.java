@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 //test_1
+//나도할래뚀로롱
 @SpringBootApplication
 public class Application {
 
