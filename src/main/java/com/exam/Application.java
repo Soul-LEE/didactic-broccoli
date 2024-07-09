@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 //test_1
+//feature_minji
 @SpringBootApplication
 public class Application {
 
